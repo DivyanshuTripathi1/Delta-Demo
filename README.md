@@ -3,5 +3,5 @@ this is demo for Git and GitHub class.
 # Teacher 
 shradha khapra
 
-#student
+# student
 Divyanshu Tripathi
